@@ -1,0 +1,25 @@
+h2{
+	text-align: center;
+
+}
+img{
+	width: 250px;
+}
+body{
+    font-size: 16px;
+    line-height: 30px;
+	background-color: #eeeeee;
+	margin-top: 0px;
+}
+
+	
+
+.sheet{ 
+    width:30%;
+    background-color: white;
+    margin: auto;	
+    margin-bottom: 50px;
+    padding: 50px;
+    padding-top: 10px;
+    box-shadow: -1px 1px 12px -3px rgba(0,0,0,0.75);
+}
