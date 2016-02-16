@@ -5,21 +5,25 @@ h2{
 img{
 	width: 250px;
 }
-body{
-    font-size: 16px;
-    line-height: 30px;
-	background-color: #eeeeee;
-	margin-top: 0px;
+
+.Text{
+    padding: 10px;
+    
 }
 
-	
-
+.block{
+    width: 1200px;
+    padding: 5px 0px 10px 0px;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #eeeeee;
+    
+    
+}
 .sheet{ 
-    width:30%;
+    width:320px;
     background-color: white;
-    margin: auto;	
-    margin-bottom: 50px;
-    padding: 50px;
-    padding-top: 10px;
+    padding: 10px 50px 50px 50px;
     box-shadow: -1px 1px 12px -3px rgba(0,0,0,0.75);
+    margin: 2px 390px 20px 390px;
 }
